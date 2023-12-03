@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm nirapadak</h1>
 <h3 align="center">A passionate Android and MERN stack developer from Bangladesh</h3>
 
-<img align="right" height="300" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" height="150" width="200" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React**
 
